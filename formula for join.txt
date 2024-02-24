@@ -1,0 +1,47 @@
+q. Inner join part 2(1)
+
+female/males=sex ratio .........1
+
+females+males=population .........2
+
+female = population-males ..........3
+
+(population-males) = (sex ratio) * males
+
+population = males * (sex ratio+1)
+
+males = population / (sex ratio+1) ..........males
+
+female = population - population / (sex ratio+1) .....females
+
+===================================================================
+
+q. Inner join part 2(2)
+
+total literate ratio/population = literacy ratio
+
+total literate people = literacy ratio * population
+
+total illiterate people = (1-literacy ratio) * population
+
+===================================================================
+
+Q. By what percentage the population has grown
+
+For ex. 
+Growth percent=10%
+popln.= 100
+
+new popln= 100 + 10% of 100
+
+so, 
+
+For Previous cencus
+-------------------
+
+prev_cencus + growth * prev census= popln
+
+prev_cencus = popln / (1+ growth)
+
+
+
